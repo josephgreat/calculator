@@ -252,7 +252,10 @@ body {
             padding: .2em;
             cursor: pointer;
         }
-
+        .calc-btn:active {
+            box-shadow: none;
+            transform: scale(.95);
+        }
         .smtxt {
             font-size: .6em;
         }

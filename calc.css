@@ -290,6 +290,13 @@ body {
   cursor: pointer;
 }
 
+.container .calc-buttons .calc-btn:active {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  -webkit-transform: scale(0.95);
+          transform: scale(0.95);
+}
+
 .container .calc-buttons .smtxt {
   font-size: .6em;
 }
