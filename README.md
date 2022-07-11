@@ -74,7 +74,7 @@ Start using prefers-color-theme
 - [w3Schools](https://www.w3schools.com)
 
 
-## Author
+## Authord skd
 
 - Frontend Mentor - [@Joseph](https://www.frontendmentor.io/profile/Joseph)
 - Github - [@josephgreat](https://www.github.com/josephgreat)
